@@ -1,0 +1,1 @@
+Dotnet ef dbcontext scaffold "Server=DVTL7YCNJR2;Database=DoctorAppointmentSystem;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -o Models

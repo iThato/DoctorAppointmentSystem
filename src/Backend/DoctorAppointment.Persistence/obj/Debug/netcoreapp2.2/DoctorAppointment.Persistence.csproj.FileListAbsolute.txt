@@ -1,0 +1,12 @@
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\bin\Debug\netcoreapp2.2\DoctorAppointment.Persistence.deps.json
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\bin\Debug\netcoreapp2.2\DoctorAppointment.Persistence.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\bin\Debug\netcoreapp2.2\DoctorAppointment.Persistence.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.csprojAssemblyReference.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.AssemblyInfoInputs.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.AssemblyInfo.cs
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.csproj.CopyComplete
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.Persistence\obj\Debug\netcoreapp2.2\DoctorAppointment.Persistence.pdb

@@ -1,0 +1,29 @@
+<div class="jumbtron">
+    <h1 class="display-4 text-center">Available Doctor</h1>
+    <hr>
+    <div class="row">
+      <div class="col-md-12 brd">
+      </div>
+    </div>
+   </div>
+  
+   <div>
+    <span (click)="makeAppointment()" class="btn btn-sm btn-outline-primary">Book Appointment</span>
+    <br /><br />
+  </div>
+
+  
+  <div class="panel panel-primary">
+  <table class="table table-bordered"  style="text-align:center">
+    <thead class="thead-dark">
+    <th scope="col">Doctor Name</th> 
+    <th scope="col">Available Time</th>
+  </thead>
+  
+  <tbody *ngFor="let doctor of service.doctorList">
+      <button class="btn btn-default" (click)="makeAppointment()">{{doctor.doctorName}}</button>
+    <td>{{doctor.doctorAvalableTime}}</td>
+    
+   </tbody>
+  </table>
+  </div> 

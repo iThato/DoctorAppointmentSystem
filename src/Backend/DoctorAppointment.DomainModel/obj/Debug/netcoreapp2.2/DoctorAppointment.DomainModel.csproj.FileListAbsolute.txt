@@ -1,0 +1,11 @@
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.deps.json
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\obj\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.csprojAssemblyReference.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\obj\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\obj\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.AssemblyInfoInputs.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\obj\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.AssemblyInfo.cs
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\obj\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\obj\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.runtimeconfig.json
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.DomainModel\bin\Debug\netcoreapp2.2\DoctorAppointment.DomainModel.runtimeconfig.dev.json

@@ -1,0 +1,42 @@
+<div class="jumbtron">
+    <h1 class="display-4 text-center">Available Appointment</h1>
+    <hr>
+    <div class="row">
+      <div class="col-md-12 brd">
+      </div>
+    </div>
+   </div>
+  
+   <div>
+    <span (click)="openInsertUpdateModal()" class="btn btn-sm btn-outline-primary"><i class="far fa-plus-square"></i></span>
+    <br /><br />
+  </div>
+  
+  <div class="panel panel-primary">
+  <table class="table table-bordered"  style="text-align:center">
+    <thead class="thead-dark">
+    <th scope="col">Patient FirstName</th>
+    <th scope="col">Patient LastName</th>
+    <th scope="col">Email</th>
+    <th scope="col">Cell Number</th>
+    <th scope="col">Doctor Name</th>   
+    <th scope="col">Available Time</th>
+    <th scope="col">Action</th>
+  </thead>
+  
+  <tbody *ngFor="let appointment of service.appointmentList">
+        <td >{{appointment.patientFirstName}}</td>
+        <td >{{appointment.patientLastName}}</td>
+        <td >{{appointment.email}}</td>
+        <td >{{appointment.cellNumber}}</td>
+        <td >{{appointment.doctorId}}</td>
+        <td >{{appointment.availableTime}}</td>
+        
+        <td>
+  
+        <button (click)="onDelete(appointment.id)" class="btn btn-sm btn-outline-danger">Decline</button>
+      </td>
+  
+   </tbody>
+  </table>
+  </div> 
