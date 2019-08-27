@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj": {}
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj": {
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj",
         "projectName": "DoctorAppointment.BusinessLogic",
-        "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,11 +32,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
-                "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj"
+              "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj"
               },
-              "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj": {
-                "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj"
+              "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj": {
+                "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
+        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
         "projectName": "DoctorAppointment.DomainModel",
-        "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
+        "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
         "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\obj\\",
+        "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -135,14 +135,14 @@
         }
       }
     },
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj": {
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj",
         "projectName": "DoctorAppointment.Persistence",
-        "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj",
+        "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\DoctorAppointment.Persistence.csproj",
         "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -163,8 +163,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
-                "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj"
+              "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
+                "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj": {
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
         "projectName": "DoctorAppointmentSystem",
-        "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
+        "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
         "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\obj\\",
+        "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -221,8 +221,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj": {
-                "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj"
+              "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj"
               }
             }
           }

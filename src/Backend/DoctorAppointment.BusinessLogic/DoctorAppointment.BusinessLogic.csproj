@@ -8,5 +8,5 @@
     <ProjectReference Include="..\DoctorAppointment.DomainModel\DoctorAppointment.DomainModel.csproj" />
     <ProjectReference Include="..\DoctorAppointment.Persistence\DoctorAppointment.Persistence.csproj" />
   </ItemGroup>
-
+  
 </Project>

@@ -1,0 +1,14 @@
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.deps.json
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.DomainModel.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.Persistence.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.DomainModel.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\bin\Release\netcoreapp2.2\DoctorAppointment.Persistence.pdb
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.AssemblyInfo.cs
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.csproj.CopyComplete
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.dll
+C:\Users\TMafatle\Desktop\DoctorAppointmentSystem\src\Backend\DoctorAppointment.BusinessLogic\obj\Release\netcoreapp2.2\DoctorAppointment.BusinessLogic.pdb

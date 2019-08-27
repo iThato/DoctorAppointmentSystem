@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {}
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
+    "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
+        "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
         "projectName": "DoctorAppointment.DomainModel",
-        "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
+        "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\DoctorAppointment.DomainModel.csproj",
         "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\obj\\",
+        "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

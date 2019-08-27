@@ -13205,11 +13205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
       "projectName": "DoctorAppointmentSystem",
-      "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
+      "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj",
       "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\obj\\",
+      "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -13230,8 +13230,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj": {
-              "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj"
+            "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.BusinessLogic\\DoctorAppointment.BusinessLogic.csproj"
             }
           }
         }

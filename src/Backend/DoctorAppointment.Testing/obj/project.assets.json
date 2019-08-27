@@ -14762,11 +14762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Testing\\DoctorAppointment.Testing.csproj",
+      "projectUniqueName": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Testing\\DoctorAppointment.Testing.csproj",
       "projectName": "DoctorAppointment.Testing",
-      "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Testing\\DoctorAppointment.Testing.csproj",
+      "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Testing\\DoctorAppointment.Testing.csproj",
       "packagesPath": "C:\\Users\\TMafatle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Testing\\obj\\",
+      "outputPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointment.Testing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -14787,8 +14787,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj": {
-              "projectPath": "C:\\Users\\TMafatle\\Desktop\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj"
+            "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj": {
+              "projectPath": "C:\\Users\\TMafatle\\Desktop\\C#\\ConsoleApp\\for assessment\\DoctorAppointmentSystem\\src\\Backend\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj"
             }
           }
         }

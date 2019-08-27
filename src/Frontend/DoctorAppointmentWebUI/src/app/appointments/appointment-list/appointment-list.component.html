@@ -7,10 +7,10 @@
     </div>
    </div>
   
-   <div>
-    <span (click)="openInsertUpdateModal()" class="btn btn-sm btn-outline-primary"><i class="far fa-plus-square"></i></span>
+   <!-- <div>
+    <span (click)="openInsertUpdateModal()" class="btn btn-sm btn-outline-primary"><i class="far fa-plus-square"> Book Available Doctor</i></span>
     <br /><br />
-  </div>
+  </div> -->
   
   <div class="panel panel-primary">
   <table class="table table-bordered"  style="text-align:center">
@@ -19,7 +19,7 @@
     <th scope="col">Patient LastName</th>
     <th scope="col">Email</th>
     <th scope="col">Cell Number</th>
-    <th scope="col">Doctor Name</th>   
+    <th scope="col">Doctor</th>   
     <th scope="col">Available Time</th>
     <th scope="col">Action</th>
   </thead>
@@ -31,6 +31,13 @@
         <td >{{appointment.cellNumber}}</td>
         <td >{{appointment.doctorId}}</td>
         <td >{{appointment.availableTime}}</td>
+
+        
+        <!-- <select name="Department" #Department="ngModel" [(ngModel)]="Department.formData"   class="form-control" 
+        required>
+        <option value="0">-select Doctor-</option>
+        <option *ngFor="let item of service.list" value="{{item.Department}}">{{item.Department}}</option>
+        </select> -->
         
         <td>
   

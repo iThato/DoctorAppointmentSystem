@@ -2,6 +2,7 @@ import { AppointmentListComponent } from './appointments/appointment-list/appoin
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { DoctorListComponent } from './doctors/doctor-list/doctor-list.component';
+import { AddModalComponent } from './appointments/modals/add-modal/add-modal.component';
 
 
 // configuring Routes.
@@ -10,6 +11,11 @@ const appRoutes: Routes = [
     { path: 'startUp',
     component : DoctorListComponent
    },
+
+  { 
+    path: 'add',
+    component : AddModalComponent
+  }, 
   
     { path: 'appointment',
      component : AppointmentListComponent
